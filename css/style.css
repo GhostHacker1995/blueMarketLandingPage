@@ -439,7 +439,7 @@ header.fixed .navbar {
 
 /* navigation toggle menu */
 .toggle-wrap {
-    padding: 10px;
+    /* padding: 10px; */
     position: relative;
     cursor: pointer;
     
