@@ -944,7 +944,7 @@ header.fixed .navbar {
     padding: 70px 0;
     padding-bottom: 250px;
     border-radius: 30px;
-    box-shadow: 0px 4px 30px #EDE9FE;
+    box-shadow: 0px 4px 30px #BB184F;
 }
 
 /* how it works list */
@@ -1052,7 +1052,7 @@ header.fixed .navbar {
 
 /* how it works numbers */
 .how_it_works .step_block ul li .step_number {
-    background-image: url(../images/icon_bg.png);
+    background-image: url(../images/icon_bg.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1062,6 +1062,7 @@ header.fixed .navbar {
     justify-content: center;
     align-items: center;
     position: relative;
+    color: #fff;
 }
 
 /* how it works numbers heading h3 */
