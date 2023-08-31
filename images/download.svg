@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 143.4 150.1" style="enable-background:new 0 0 143.4 150.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#BB184F;}
+	.st0{fill:#15959E;}
 	.st1{fill:#FFFFFF;}
 </style>
 <circle class="st0" cx="71.7" cy="75.1" r="65.9"/>
@@ -23,7 +23,7 @@
 	<g>
 		<polygon class="st1" points="71.7,89.2 73.6,87.1 73.7,87.1 73.7,87 80.9,79.1 73.7,79.1 73.7,54.2 69.7,54.2 69.7,79.1 
 			61.6,79.1 		"/>
-		<path class="st1" d="M71.8,92L56.7,77.1h11V52.2h8v24.9h9.8l-9.8,10.6V89l-1.2,0L71.8,92z M66.4,81.1l5.2,5.1l4.7-5.1H66.4z"/>
+		<path class="st1" d="M71.8,92L56.7,77.1h11V52.2h8v24.9h9.8l-9.8,10.6V89h-1.2L71.8,92z M66.4,81.1l5.2,5.1l4.7-5.1H66.4z"/>
 	</g>
 </g>
 </svg>

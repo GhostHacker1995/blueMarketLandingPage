@@ -3,15 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 143.4 150.1" style="enable-background:new 0 0 143.4 150.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#BB184F;}
+	.st0{fill:#15959E;}
 	.st1{fill:#FFFFFF;}
 </style>
 <circle class="st0" cx="71.7" cy="75.1" r="65.9"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -15.2038 65.6917)" class="st1" cx="71.7" cy="51.2" rx="13.2" ry="13.2"/>
+<ellipse class="st1" cx="71.7" cy="51.2" rx="13.2" ry="13.2"/>
 <g>
 	<path class="st1" d="M117,65.9c-1.7,3.3-5,5.5-9,5.5c-3.9,0-7.3-2.2-9-5.5c-4.4,1.6-7.5,5.9-7.5,10.8v8.1c0,6.4,5.2,11.5,11.5,11.5
 		h9.7c6.4,0,11.5-5.2,11.5-11.5v-8.1C124.5,71.8,121.4,67.6,117,65.9z"/>
-	<ellipse transform="matrix(0.9871 -0.1602 0.1602 0.9871 -8.435 18.0992)" class="st1" cx="108" cy="61.4" rx="7.6" ry="7.6"/>
+	<ellipse class="st1" cx="108" cy="61.4" rx="7.6" ry="7.6"/>
 </g>
 <g>
 	<path class="st1" d="M46.1,67.3c0.2-0.3,0.4-0.5,0.5-0.8C46.5,66.7,46.3,67,46.1,67.3z"/>
@@ -22,6 +22,6 @@
 <g>
 	<path class="st1" d="M45,68.9c-1.3,2.5-3.9,4.3-7,4.3c-3,0-5.7-1.7-7-4.3c-3.4,1.3-5.8,4.6-5.8,8.4v6.3c0,5,4,9,9,9h7.6
 		c5,0,9-4,9-9v-6.3C50.8,73.5,48.4,70.2,45,68.9z"/>
-	<ellipse transform="matrix(0.9871 -0.1602 0.1602 0.9871 -9.9837 6.9384)" class="st1" cx="38" cy="65.4" rx="5.9" ry="5.9"/>
+	<ellipse class="st1" cx="38" cy="65.4" rx="5.9" ry="5.9"/>
 </g>
 </svg>
