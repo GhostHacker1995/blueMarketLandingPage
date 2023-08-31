@@ -32,7 +32,7 @@ body {
     font-size: 16px;
     line-height: 1.7;
     font-family: 'Oxanium', cursive;
-    color: var(--body-text-blue);
+    /* color: var(--body-text-blue); */
     background-color: var(--light-blue);
 }
 
@@ -1617,7 +1617,7 @@ box-shadow: 1px 4px 8px -2px rgba(0,0,0,0.5);
 
 /* newsletter  wraper */
 .newsletter_box {
-    background-color: var(--bg-blue);
+    background-color: #E16E1F;
     padding: 50px;
     border-radius: 12px;
     box-shadow: 0 4px 10px #0c0c0c21;
@@ -1718,7 +1718,7 @@ footer {
 }
 
 footer .top_footer {
-    background-color: #583BD3;
+    /* background-color: #583BD3; */
     background-image: url(/images/footer_bg.svg);
     background-attachment: fixed;
     padding: 180px 0 60px 0;
@@ -1798,7 +1798,7 @@ footer .app_btn li:last-child {
 }
 
 footer .bottom_footer {
-    background-color: var(--bg-blue);
+    background-color: #E16E1F;
 }
 
 /* footer heading and text colors variable */
@@ -2218,7 +2218,8 @@ header.fix_style.white_header {
 
 /* Bredcrumb Css Start */
 .bred_crumb {
-    background-image: url(../images/bread_crumb_bg.png);
+    background-image: url(../images/background-banner.svg);
+    background-attachment: fixed;
     /*background: var(--blue);*/
     background-repeat: no-repeat;
     background-size: cover;
@@ -2415,7 +2416,7 @@ header.fix_style.white_header {
     width: 570px;
     height: 570px;
     border-radius: 100%;
-    background-color: var(--bg-white);
+    /* background-color: var(--bg-white); */
     z-index: -1;
 }
 
@@ -2432,7 +2433,7 @@ header.fix_style.white_header {
     border-radius: 30px;
     width: 1370px;
     margin: 0 15px;
-    box-shadow: 0 4px 30px #EDE9FE;
+    box-shadow: 0 4px 30px #15959E;
     padding: 85px 0;
 }
 
@@ -2538,7 +2539,7 @@ header.fix_style.white_header {
     width: 1370px;
     margin: 0 15px;
     /*background-image: url(../images/query_bg.png);*/
-    background: var(--blue);
+    /* background: var(--blue); */
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 30px;
